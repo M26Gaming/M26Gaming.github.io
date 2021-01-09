@@ -1,0 +1,169 @@
+body{
+	user-select: none;
+}
+
+.headtxt {
+	color: white;
+	text-align: center;
+	font-size: 90px;
+	font-family: Bahnschrift ;
+	font-weight: bolder;
+	letter-spacing: 5px;
+	
+
+}
+
+.head {
+	display: flex;
+	align-items: center;
+}
+#icon {
+	display: inline-block;
+	margin-right: 25px;
+	margin-left: 50px;
+}
+
+.sub {
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	font-family: Franklin Gothic ;
+	display: block;
+	margin-top: 100px;
+}
+
+#button {
+	color: white;
+	font-size: 50px;
+	font-family: Illuma;
+	display: block;
+	margin-top: 50px;
+	background-color: #9a0000;
+	width: 40%;
+	padding : 50px;
+	font-weight: bolder;
+	border: 5px solid #9a0000;
+	border-radius: 50px;
+
+}
+#button:hover {
+	color: #9a0000;
+	background-color: white;
+}
+
+.back {
+	display: none;
+}
+.backadd {
+	color:white;
+	text-align: center;
+	display: block;
+	font-size: 50px;
+	font-family: Illuma;
+	display: block;
+	margin-top: 50px;
+	background-color: #9a0000;
+	width: 40%;
+	padding : 50px;
+	font-weight: bolder;
+	background-image: url(mine.jpg);
+	text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+}
+#win {
+	background-image: url(minewin.jfif);
+}
+
+.back:hover {
+ 	border: 10px solid white;
+ 	color: yellow;
+ }
+
+ .others {
+ 	color: white;
+	text-align: center;
+	font-size: 40px;
+	font-family: Franklin Gothic ;
+	display: block;
+	margin-top: 200px;
+
+ }
+
+ .insta{
+    color: white;
+	font-size: 50px;
+	font-family: Illuma;
+	display: block;
+	margin-top: 50px;
+	background-image: url(insta.jfif);
+	width: 40%;
+	padding : 50px;
+	font-weight: bolder;
+	border: 5px solid #9a0000;
+	border-radius: 50px;
+	background: #f09433; 
+background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+  
+
+ }
+
+.tweet{
+	color: white;
+	font-size: 50px;
+	font-family: Illuma;
+	display: block;
+	margin-top: 50px;
+	background-color: #00acee ;
+	width: 40%;
+	padding : 50px;
+	font-weight: bolder;
+	border: 5px solid #9a0000;
+	border-radius: 50px;
+
+
+}
+
+.dis {
+	color: white;
+	font-size: 50px;
+	font-family: Illuma;
+	display: block;
+	margin-top: 50px;
+	background-color: #7289da;
+	width: 40%;
+	padding : 50px;
+	font-weight: bolder;
+	border: 5px solid #9a0000;
+	border-radius: 50px;
+
+
+}
+.free {
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	font-family: Franklin Gothic ;
+	display: block;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.m26{
+	color: #efe894;
+	text-align: center;
+	font-size: 10px;
+	font-family: Franklin Gothic ;
+	display: block;
+	
+}
+
+.line {
+
+	width: 100%;
+	background-color: #9a0000;
+	height: 70px;
+	display: block;
+}
